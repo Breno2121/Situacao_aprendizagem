@@ -28,7 +28,7 @@ const createWindow = (): void => {
     },
   });
   mainWindow.maximize()
-  mainWindow.loadURL('http://localhost:3000/login');
+  mainWindow.loadURL('http://localhost:3000/qualidade');
 
 };
 
